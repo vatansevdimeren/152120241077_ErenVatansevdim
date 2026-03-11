@@ -1,9 +1,0 @@
-Eren,1234,19,1,Ceng,60000,0,1 
-sena,12345,24,0,Acounter,30000,0,1
-Eren,123,123,1,asdasd,123213,0,1
-Talat,213421,55,1,Retired,35000,0,1
-Yaman,321123,16,1,Student,3000,0,1
-deneme,123321123,44,1,Saler,50000,0,1
-Fatma,123321,123,1,adssad,124124,0,1
-R dvan,111222333,19,0,Bitch,13000,0,1
-asdasd,313131,31,1,asdasdasd,3.12312e+08,0,1
