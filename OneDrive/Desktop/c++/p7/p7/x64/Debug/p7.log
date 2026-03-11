@@ -1,0 +1,5 @@
+﻿  p7.cpp
+C:\Users\ErenV\OneDrive\Desktop\c++\p7\p7\p7.cpp(142,8): warning C4101: 'Activite': yerel değişken başvurusu kaldırıldı
+C:\Users\ErenV\OneDrive\Desktop\c++\p7\p7\p7.cpp(189,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ErenV\OneDrive\Desktop\c++\p7\p7\p7.cpp(378,1): warning C4715: 'CreditNoteCalculator': tüm denetim yolları değer döndürmez
+  p7.vcxproj -> C:\Users\ErenV\OneDrive\Desktop\c++\p7\x64\Debug\p7.exe
