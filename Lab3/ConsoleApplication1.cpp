@@ -122,3 +122,6 @@ void MovePrev(Song*& Current) {
 		Current = Current->Prev;
 	}
 }
+
+
+
