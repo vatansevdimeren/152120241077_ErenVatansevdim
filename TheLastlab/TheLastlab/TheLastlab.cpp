@@ -15,7 +15,7 @@ int main()
     unsigned long int ID = 0;
     std::cout << "Please enter your  student ID :";
     std::getline(std::cin, StudentNumber);
-    ID = std::stoull(StudentNumber);
+    ID = std::stoull(StudentNumber);//Burada Aldığım string ID yi Unsigned long llong int'e dönüştürdüm.
     unsigned short int N = 0;
     N = ID % 50;
     unsigned short int E = 0;
