@@ -8,8 +8,8 @@ struct Sensor {
 
 int main()
 {
-    short int firstDegree = 0;
-    short int LastDegree = 0;
+    float  firstDegree = 0;
+    float LastDegree = 0;
     std::string StudentNumber = "";
     Sensor TempSensor;
     unsigned long long int ID = 0;
