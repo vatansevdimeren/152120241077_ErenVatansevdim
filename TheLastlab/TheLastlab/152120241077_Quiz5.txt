@@ -1,0 +1,4 @@
+Number : 152120241077
+Sensor Index I Used in the process is : 17
+First Temprature 28
+The Last Temprature  : 45
