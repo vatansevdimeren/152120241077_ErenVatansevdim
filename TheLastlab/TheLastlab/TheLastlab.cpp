@@ -12,7 +12,7 @@ int main()
     short int LastDegree = 0;
     std::string StudentNumber = "";
     Sensor TempSensor;
-    unsigned long int ID = 0;
+    unsigned long long int ID = 0;
     std::cout << "Please enter your  student ID :";
     std::getline(std::cin, StudentNumber);
     ID = std::stoull(StudentNumber);//Burada Aldığım string ID yi Unsigned long llong int'e dönüştürdüm.

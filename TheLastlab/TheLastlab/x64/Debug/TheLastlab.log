@@ -1,5 +1,4 @@
 ﻿  TheLastlab.cpp
-C:\Users\ErenV\OneDrive\Desktop\Labs\TheLastlab\TheLastlab\TheLastlab.cpp(18,21): warning C4244: '=': 'unsigned __int64' - 'unsigned long' dönüşümü; veri kaybı olabilir
 C:\Users\ErenV\OneDrive\Desktop\Labs\TheLastlab\TheLastlab\TheLastlab.cpp(31,29): warning C4244: '=': 'float' - 'short' dönüşümü; veri kaybı olabilir
 C:\Users\ErenV\OneDrive\Desktop\Labs\TheLastlab\TheLastlab\TheLastlab.cpp(35,28): warning C4244: '=': 'float' - 'short' dönüşümü; veri kaybı olabilir
   TheLastlab.vcxproj -> C:\Users\ErenV\OneDrive\Desktop\Labs\TheLastlab\x64\Debug\TheLastlab.exe
